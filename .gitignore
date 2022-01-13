@@ -122,3 +122,4 @@ build/
 
 # CDK
 cd.context.json
+.DS_Store
